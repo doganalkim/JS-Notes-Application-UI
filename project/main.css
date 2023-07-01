@@ -1,0 +1,44 @@
+.navbar{
+    background-color: rgb(132, 0, 255);
+}
+.navbar h1{
+    color: white;
+}
+
+.navbar .container a{
+    color: white;
+}
+
+footer{
+    width: 100%;
+    height: auto;
+    background-color:rgb(132, 0, 255);
+    padding-top: 1rem;
+}
+
+footer .row{
+    padding: 0.5rem 1.5rem;
+} 
+
+label{
+    color: white;
+}
+
+.row ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.btn{
+    background-color:rgb(132, 0, 255) ;
+    color: white;
+}
+
+.btn:hover{
+    background-color:  white;
+    color:rgb(132, 0, 255) ;
+    border-color:rgb(132, 0, 255) ;
+}
+
+
